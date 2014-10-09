@@ -1,0 +1,10 @@
+{
+    "name": "spider",
+    "description": "A simple demo to get all the links of a page",
+    "version": "0.0.1",
+    "author": "hwoarangzk",
+    "devDependencies": {
+        "cheerio": ">=0.17.0",
+        "iconv-lite": ">=0.4.4"
+    }
+}
